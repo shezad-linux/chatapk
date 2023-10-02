@@ -10,7 +10,7 @@
 		<version>3.1.4</version> <!-- Updated to a typical Spring Boot version -->
 	</parent>
 
-	<groupId>com.alibou</groupId>
+	<groupId>com.chat</groupId>
 	<artifactId>chat</artifactId>
 	<version>1</version>
 	<name>Chat</name>
@@ -58,6 +58,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>s>
+	</build>
 
 </project>
