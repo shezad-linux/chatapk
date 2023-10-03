@@ -50,4 +50,4 @@ jobs:
           app-name: 'javaprojectchat'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B0CF6EE3D5E4754A9F4C984D86F1113 }}
-          package: '*.war'
+          package: '*.jar'
